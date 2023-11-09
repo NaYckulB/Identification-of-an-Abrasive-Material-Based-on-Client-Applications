@@ -1,0 +1,36 @@
+// AbrasiveMaterial.java
+package com.NayckulB.abrasive.identification;
+
+public class AbrasiveMaterial {
+    private String name;
+    private String application;
+
+    // Constructor, getters, setters, toString
+}
+----------------------------------------------
+// ClientApplication.java
+package com.NayckulB.abrasive.identification;
+
+public class ClientApplication {
+    private String name;
+
+    // Constructor, getters, setters, toString
+}
+----------------------------------------------
+// AbrasiveMaterialService.java
+package com.NayckulB.abrasive.service;
+
+import com.NayckulB.abrasive.identification.AbrasiveMaterial;
+
+public class AbrasiveMaterialService {
+    // Methods for handling abrasive materials
+}
+----------------------------------------------
+// AbrasiveMaterialRepository.java
+package com.NayckulB.abrasive.repository;
+
+import com.NayckulB.abrasive.identification.AbrasiveMaterial;
+
+public class AbrasiveMaterialRepository {
+    // Methods for access to abrasive data
+}
