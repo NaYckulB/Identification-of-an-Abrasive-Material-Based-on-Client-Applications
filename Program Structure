@@ -1,0 +1,18 @@
+Identification-of-an-Abrasive-Material-Based-on-Client-Applications/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── com/
+│   │   │   │   └── yourusername/
+│   │   │   │       └── yourproject/
+│   │   │   │           ├── AbrasiveMaterialApplication.java
+│   │   │   │           ├── model/
+│   │   │   │           │   ├── AbrasiveMaterial.java
+│   │   │   │           │   └── ClientApplication.java
+│   │   │   │           ├── service/
+│   │   │   │           │   └── AbrasiveMaterialService.java
+│   │   │   │           └── repository/
+│   │   │   │               └── AbrasiveMaterialRepository.java
+│   ├── resources/
+│   └── test/
+└── pom.xml
