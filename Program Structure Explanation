@@ -1,8 +1,0 @@
-'AbrasiveMaterialApplication.java': The main class containing the main method and is the starting point of the application.
-'model/': The package containing the base classes for the Data Model.
-         'AbrasiveMaterial.java': Class representing an abrasive material.
-         'ClientApplication.java': The class representing a client application. 
-'service/': The package containing the services necessary for data manipulation.
-         'AbrasiveMaterialService.java': Class responsible for operations related to abrasives.
-'repository/': Data management package for abrasives.
-         'AbrasiveMaterialRepository.java': Class dealing with access to data on abrasives.
